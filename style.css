@@ -95,7 +95,8 @@ h2 {
     font-size: 2rem;
 }
 
-/* Button */ 
+/* Button */
+
 button {
     background: var(--brightYellow);
     color: white;
@@ -144,7 +145,7 @@ footer {
     font-size: 11px;
 }
 
-/* Desktop View */
+/* Desktop */
 
 @media screen and (min-width: 600px) {
     .card-container {
